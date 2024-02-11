@@ -1,0 +1,17 @@
+.container{
+    background: #795cf4;
+    padding: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.container input[type=text]{
+    padding: 20px;
+   float: left;
+    
+}
+button{
+    padding: 20px;
+    text-align: left;
+    background-color: white;
